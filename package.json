@@ -1,0 +1,25 @@
+{
+  "name": "cypress_test",
+  "version": "1.0.0",
+  "description": "E2E framework Testing Cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GriselOrtizClavijo/Cypress_Test.git"
+  },
+  "keywords": [
+    "e2e",
+    "automation",
+    "framework",
+    "cypress"
+  ],
+  "author": "Grisel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GriselOrtizClavijo/Cypress_Test/issues"
+  },
+  "homepage": "https://github.com/GriselOrtizClavijo/Cypress_Test#readme"
+}
