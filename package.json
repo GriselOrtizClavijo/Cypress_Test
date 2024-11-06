@@ -21,5 +21,9 @@
   "bugs": {
     "url": "https://github.com/GriselOrtizClavijo/Cypress_Test/issues"
   },
-  "homepage": "https://github.com/GriselOrtizClavijo/Cypress_Test#readme"
+  "homepage": "https://github.com/GriselOrtizClavijo/Cypress_Test#readme",
+  "devDependencies": {
+    "cypress": "^13.15.1",
+    "cypress-wait-until": "^3.0.2"
+  }
 }
